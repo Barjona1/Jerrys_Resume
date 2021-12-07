@@ -53,11 +53,11 @@ __MTN Telecommunication__, Accra - Ghana
 
 ## SKILLS
 
-__Programming Language:__ C, C++, Python
- __Networking:__ Switches, servers, routers, VGs, VoIP devices configuration and troubleshooting, AWS cloud computing, etc.
- __Data Science:__ Fundamentals to data wrangling, visualization and machine learning.
- __Digital System:__ Combinational and Sequential logic circuits, Digital simulation, building and debugging microcontroller.
- __Technical Support:__ installing, upgrading, building, and maintaining hardware, software, and other computing peripherals.
+- __Programming Language:__ C, C++, Python
+- __Networking:__ Switches, servers, routers, VGs, VoIP devices configuration and troubleshooting, AWS cloud computing, etc.
+- __Data Science:__ Fundamentals to data wrangling, visualization and machine learning.
+- __Digital System:__ Combinational and Sequential logic circuits, Digital simulation, building and debugging microcontroller.
+- __Technical Support:__ installing, upgrading, building, and maintaining hardware, software, and other computing peripherals.
 
 ## PROJECTS
 
