@@ -15,10 +15,6 @@ title: Brigham Young's Resume
 
 ## EDUCATION
 
-`2025-2027`
-__LDS Business College__, Salt Lake City, UT
-
-- Full academic scholarship with 4.0 GPA
 
 `Graduation 2023`
 __Brigham Young University - Idaho__, Rexburg, ID
@@ -29,8 +25,7 @@ Bachelor of Science in Computer Engineering
 
 ## WORK EXPERIENCE
 
-
-#### Hardware Development Engineer Intern
+__Hardware Development Engineer Intern__
 
 `May 2021 - August 2023`
 __Amazon Services LLC__, Sunnyvale, CA
@@ -39,7 +34,7 @@ __Amazon Services LLC__, Sunnyvale, CA
 - Improved team’s data collection analysis by building a machine learning web UI.
 - Collaborated with 10 colleagues to build a data labeler software to enhance flexibility and productivity.
 
-#### Assistant Network Engineer
+__Assistant Network Engineer__
 
 `Currently`
 __Brigham Young University - Idahon__, Rexburg, ID
@@ -48,7 +43,7 @@ __Brigham Young University - Idahon__, Rexburg, ID
 - Monitored and troubleshoot VoIP related technicalities.
  
 
-#### Assistant Technician
+__Assistant Technician__
 
 `February 2014 - May 2015`
 __MTN Telecommunication__, Accra - Ghana
@@ -58,11 +53,11 @@ __MTN Telecommunication__, Accra - Ghana
 
 ## SKILLS
 
-__Programming Language:__ C, C++, Python
-__Networking:__ Switches, servers, routers, VGs, VoIP devices configuration and troubleshooting, AWS cloud computing, etc.
-__Data Science:__ Fundamentals to data wrangling, visualization and machine learning
-__Digital System:__ Combinational and Sequential logic circuits, Digital simulation, building and debugging microcontroller, etc.
-__Technical Support:__ installing, upgrading, building, and maintaining hardware, software, and other computing peripherals.
+- __Programming Language:__ C, C++, Python
+- __Networking:__ Switches, servers, routers, VGs, VoIP devices configuration and troubleshooting, AWS cloud computing, etc.
+- __Data Science:__ Fundamentals to data wrangling, visualization and machine learning
+- __Digital System:__ Combinational and Sequential logic circuits, Digital simulation, building and debugging microcontroller, etc.
+- __Technical Support:__ installing, upgrading, building, and maintaining hardware, software, and other computing peripherals.
 
 ## PROJECTS
 
